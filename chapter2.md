@@ -1,3 +1,4 @@
+<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
 # Introduction to C++ and the compiling process
 
 Computers are machines that move around electricty to do things.  The move electricity at a constant rate, and based on small logical gates, they can "calculate".  Even if you don't know what it means, you are probably used to seeing this kind of language to describe comptures: 
